@@ -1,0 +1,22 @@
+Campana:4,Conica:6,Convexa:2,Plana:1,Nudosa:5,Hundida:3
+Fibrosa:3,Ranuras:2,Escamosa:4,Lisa:1
+Marron:1,Beige:2,Canela:5,Gris:3,Verde:10,Rosa:7,Morado:9,Rojo:8,Blanco:6,Amarillo:4
+Si:1,No:2
+Almendra:1,Anis:2,Creosota:9,Pescado:6,Fetido:8,Mohoso:5,Nada:3,Acre:7,Picoso:4
+Unida:3,Descendente:4,Suelta:1,Con muescas:2
+Cerca:2,Junto:1,Distante:3
+Anchas:1,Estrechas:2
+Negro:1,Marron:2,Beige:5,Chocolate:3,Gris:6,Verde:12,Naranja:9,Rosa:4,Morado:10,Rojo:11,Blanco:7,Amarillo:8,Sin color:0
+Agrandado:1,Afinado:2
+Bulboso:3,Trebol:4,Copa:5,Igual:2,Rizomorfos:7,Enraizado:6,0:1
+Fibroso:3,Escamoso:4,Sedoso:2,Liso:1
+Fibroso:3,Escamoso:4,Sedoso:2,Liso:1
+Marron:1,Beige:2,Canela:3,Gris:6,Naranja:9,Rosa:5,Rojo:8,Blanco:4,Amarillo:7
+Marron:1,Beige:2,Canela:3,Gris:6,Naranja:9,Rosa:5,Rojo:8,Blanco:4,Amarillo:7
+Parcial:1,Universal:2
+Marron:2,Naranja:4,Blanco:1,Amarrillo:3
+Ninguno:1,Uno:2,Dos:3
+Telarania:4,Evanescente:2,Ensanchado:5,Largo:8,Ninguno:1,Colgante:6,Revestimiento:7,Zona:3
+Negro:9,Marron:2,Beige:3,Chocolate:4,Verde:7,Naranja:8,Morado:6,Blanco:1,Amarillo:5
+Abundante:6,Agrupada:5,Numerosa:4,Dispersa:2,Varias:3,Solitaria:1
+Pastos:2,Hojas:4,Prados:3,Caminos:5,Urbano:6,Residuos:7,Bosques:1
