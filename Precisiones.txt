@@ -1,0 +1,8 @@
+Capa 1: 1 Capa 2:3 Precision: 0.0
+Capa 1: 1 Capa 2:3 Precision: 0.8981595039367676
+Capa 1: 1 Capa 2:5 Precision: 0.9030674695968628
+Capa 1: 1 Capa 2:10 Precision: 0.9100204706192017
+Capa 1: 1 Capa 2:13 Precision: 0.9124744534492493
+Capa 1: 2 Capa 2:3 Precision: 0.9341513514518738
+Capa 1: 2 Capa 2:4 Precision: 0.973824143409729
+Capa 1: 2 Capa 2:12 Precision: 0.9770961403846741
